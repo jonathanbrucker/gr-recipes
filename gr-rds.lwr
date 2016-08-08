@@ -25,4 +25,4 @@ gitbranch: master
 inherit: cmake
 satisfy:
   port: gr-rds
-source: git+https://github.com/bastibl/gr-rds.git
+source: git+https://github.com/jonathanbrucker/gr-rds.git

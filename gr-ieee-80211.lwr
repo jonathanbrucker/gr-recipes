@@ -29,4 +29,4 @@ gitbranch: master
 inherit: cmake
 satisfy:
   port: gr-ieee802-11
-source: git+https://github.com/bastibl/gr-ieee802-11.git
+source: git+https://github.com/jonathanbrucker/gr-ieee802-11.git
