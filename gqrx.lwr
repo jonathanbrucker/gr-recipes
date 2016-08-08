@@ -29,7 +29,6 @@ gitbranch: master
 inherit: cmake
 install: 'cp src/gqrx $prefix/bin/'
 satisfy:
-  deb: gqrx-sdr
   port: gqrx
   pacman: gqrx
 source: git+https://github.com/csete/gqrx.git
