@@ -45,7 +45,7 @@ satisfy:
   pacman: gnuradio
   port: gnuradio
   portage: net-wireless/gnuradio
-source: git+https://github.com/gnuradio/gnuradio.git
+source: git+https://github.com/jonathanbrucker/gnuradio.git
 gitbranch: master
 gitargs: --recursive
 vars:
